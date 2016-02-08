@@ -1,6 +1,7 @@
 ################################################################
 # SCRIPT: Reset-WSUSClient.ps1
-# AUTHOR: Josh Ellis
+# AUTHOR: Josh Ellis - Josh@JoshEllis.NZ
+# Website: JoshEllis.NZ
 # VERSION: 1.0
 # DATE: 08/02/2016
 # DESCRIPTION: Resets the WSUS Client ID and clears our C:\Windows\SoftwareDistribution.
